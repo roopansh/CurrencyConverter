@@ -1,11 +1,24 @@
 # CurrencyConverter
 Simple currency converter
 
-#HOW TO USE
+#HOW TO DOWNLOAD
 
-1.) Put all the files in the htdocs folder of your xampp folder(Refer down for xampp folder).
+1.) Clone the repo
 
-2.) Open the file in the browser.
+    git clone https://github.com/roopansh/CurrencyConverter.git
+
+2.) copy to your xampp/apache2 directory
+
+    cp -r CurrencyConverter /opt/lampp/htdocs/
+    
+OR if you have apache2 set up
+
+    cp -r CurrencyConverter /var/www/html
+
+3.) Open Your browser and go to
+    
+    localhost/CurrencyConverter/
+
 
 #NOTE
 
